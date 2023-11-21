@@ -1,4 +1,4 @@
-
+Class 9
 ====Color System===
 
 RGB = Red, Green, Blue rgb(0-255) rgb(0, 0, 255)
@@ -18,8 +18,24 @@ HEX = #(0-15)=> 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
 3. font-weight (normal, bold, bolder, lighter) (100-900)
 4. font-family (Times New Roman, arial, robot, sens-serif)
 
+Class 10
 
 
-1.Heading
-2.Some Texts
-3.Color Combination
+
+=======Unit in CSS========
+
+pixels(px)
+
+1 inch = 96px
+
+============Text Properties========
+
+line-height: 20px
+text-transform (uppercase/lowercase/capitalize/none)
+
+==========CSS Box Model=======
+
+
+
+
+
